@@ -27,7 +27,7 @@
   <name>Feign Benchmark (JMH)</name>
 
   <properties>
-    <jmh.version>1.20</jmh.version>
+    <jmh.version>1.32</jmh.version>
     <!-- override default bytecode version for src/main from parent pom -->
     <main.java.version>1.8</main.java.version>
     <main.signature.artifact>java18</main.signature.artifact>
